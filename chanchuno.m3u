@@ -1,0 +1,601 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Laliga UHD 4K
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/30737
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Campeones UHD 4K
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34560
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Formula 1 UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Formula 1 UHD 4K
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34561
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN Espana HD  (Only During Events )" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN Espana HD  (Only During Events )
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23016
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN Espana 2 HD  (Only During Events )" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN Espana 2 HD  (Only During Events )
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26568
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 1HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 1HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/20621
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 2HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 2HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26925
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 3" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26926
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 4" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 4
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26927
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="VIP ES: GOL HD" tvg-logo="[" group-title="Live: Spain",VIP ES: GOL HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12640
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="VIP ES: TELEDEPORTE HD" tvg-logo="[" group-title="Live: Spain",VIP ES: TELEDEPORTE HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3374
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Realmadrid TV FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: Realmadrid TV FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26929
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Esport 3" tvg-logo="[" group-title="Live: Spain",VIP ES: Esport 3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/20620
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: U-BEAT HD" tvg-logo="[" group-title="Live: Spain",VIP ES: U-BEAT HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26924
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DARK FHD" tvg-logo="" group-title="Live: Spain",VIP ES: DARK FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42079
+#EXTINF:-1 tvg-ID="dark.es" tvg-name="VIP ES: DARK" tvg-logo="[" group-title="Live: Spain",VIP ES: DARK
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/656
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: XTRM HD" tvg-logo="" group-title="Live: Spain",VIP ES: XTRM HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42083
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: XTRM" tvg-logo="[" group-title="Live: Spain",VIP ES: XTRM
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8210
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOMOS FHD" tvg-logo="" group-title="Live: Spain",VIP ES: SOMOS FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42570
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOMOS" tvg-logo="[" group-title="Live: Spain",VIP ES: SOMOS
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/20623
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOL Musica FHD" tvg-logo="" group-title="Live: Spain",VIP ES: SOL Musica FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42571
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOL Musica" tvg-logo="[" group-title="Live: Spain",VIP ES: SOL Musica
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23064
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="VIP ES: CANAL ODISEA HD" tvg-logo="[" group-title="Live: Spain",VIP ES: CANAL ODISEA HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23022
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CANAL COCINA HD" tvg-logo="" group-title="Live: Spain",VIP ES: CANAL COCINA HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42081
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CANAL DECASA HD" tvg-logo="" group-title="Live: Spain",VIP ES: CANAL DECASA HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42080
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DISCOVERY FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: DISCOVERY FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23018
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CAZAVISION" tvg-logo="" group-title="Live: Spain",VIP ES: CAZAVISION
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34559
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: BLAZE HD" tvg-logo="" group-title="Live: Spain",VIP ES: BLAZE HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42082
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar FEST FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar FEST FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42077
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: BE MAD FHD" tvg-logo="" group-title="Live: Spain",VIP ES: BE MAD FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42582
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CMM FHD" tvg-logo="" group-title="Live: Spain",VIP ES: CMM FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/42078
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DISNEY+ HD" tvg-logo="[" group-title="Live: Spain",VIP ES: DISNEY+ HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/26930
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: TELE MADRID FHD" tvg-logo="" group-title="Live: Spain",VIP ES: TELE MADRID FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/39666
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: EXILIUM TV PELICULAS" tvg-logo="" group-title="Live: Spain",VIP ES: EXILIUM TV PELICULAS
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/39668
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: EXILIUM TV SERIES" tvg-logo="" group-title="Live: Spain",VIP ES: EXILIUM TV SERIES
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/39667
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Canal Galeria" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Galeria
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/39665
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: La Otra" tvg-logo="" group-title="Live: Spain",VIP ES: La Otra
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/39778
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: TVM" tvg-logo="[" group-title="Live: Spain",VIP ES: TVM
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12628
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: POPULAR TV" tvg-logo="[" group-title="Live: Spain",VIP ES: POPULAR TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23071
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Presentation" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Presentation
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 1 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35079
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 2 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35080
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 3 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35081
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 4 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35082
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 5 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35083
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 6 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35084
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 7 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35085
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 8 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35086
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 9 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35087
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 10 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35088
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 11 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35089
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 12 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 13 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 14 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35095
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 15 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35096
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 16 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35097
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 17 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35098
+#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 18 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35099
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 1 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35092
+#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 2 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/35093
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="Live: Spain",ES: LA 1 HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3364
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: LA 2" tvg-logo="" group-title="Live: Spain",ES: LA 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/622
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: ANTENA3 HD" tvg-logo="[" group-title="Live: Spain",ES: ANTENA3 HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3383
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="" group-title="Live: Spain",ES: CUATRO FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3391
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="[" group-title="Live: Spain",ES: TELECINCO HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3384
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="[" group-title="Live: Spain",ES: LA SEXTA FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3392
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="Live: Spain",ES: 7RM FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23076
+#EXTINF:-1 tvg-ID="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="" group-title="Live: Spain",ES: 8TV Madrid
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1090
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos SD" tvg-logo="" group-title="Live: Spain",ES: # Vamos SD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34551
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos" tvg-logo="" group-title="Live: Spain",ES: # Vamos
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1085
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="[" group-title="Live: Spain",ES: # Vamos FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23061
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos HD" tvg-logo="" group-title="Live: Spain",ES: # Vamos HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3372
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34556
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 1" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34557
+#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 2" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34558
+#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="ES: #0" tvg-logo="" group-title="Live: Spain",ES: #0
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/635
+#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD" tvg-logo="" group-title="Live: Spain",ES: #O HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2401
+#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: #O HD FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23060
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="Live: Spain",ES: 24 HORAS
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2630
+#EXTINF:-1 tvg-ID="" tvg-name="ES: 3/24" tvg-logo="" group-title="Live: Spain",ES: 3/24
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1441
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: 33" tvg-logo="" group-title="Live: Spain",ES: 33
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23077
+#EXTINF:-1 tvg-ID="aande.es" tvg-name="ES: A&E" tvg-logo="[" group-title="Live: Spain",ES: A&E
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2643
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3 Series" tvg-logo="[""]" group-title="Live: Spain",ES: A3 Series
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12630
+#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3Series HD" tvg-logo="[" group-title="Live: Spain",ES: A3Series HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19208
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC" tvg-logo="[""]" group-title="Live: Spain",ES: AMC
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2638
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AMC FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23020
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC HD" tvg-logo="" group-title="Live: Spain",ES: AMC HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3371
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="Live: Spain",ES: Andalucia TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1440
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="" group-title="Live: Spain",ES: Antena3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1097
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Aragon" tvg-logo="" group-title="Live: Spain",ES: Aragon
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8211
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23059
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN HD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3385
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: Axn Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn Spain
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/641
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN White FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN White FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23058
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="Live: Spain",ES: AXN WHITE HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3366
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: Axn White Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn White Spain
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/640
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="ES: Baby TV" tvg-logo="" group-title="Live: Spain",ES: Baby TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23074
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="ES: Barca tv" tvg-logo="" group-title="Live: Spain",ES: Barca tv
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/639
+#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES: Be MAD TV HD" tvg-logo="[""]" group-title="Live: Spain",ES: Be MAD TV HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19209
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga H265" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga H265
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/49814
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23057
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19207
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2409
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga SD" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga SD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/33150
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLIga 1 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 1 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/7181
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 1FHD (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23105
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[""]" group-title="Live: Spain",ES: M. LaLIga 2 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/7182
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 2FHD (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23104
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 3 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/7183
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="" group-title="Live: Spain",ES: M. LaLIga 3FHD (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34550
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 4 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23103
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 5 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23102
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 6 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23101
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 7 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23100
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 8 (event only)
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23099
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="ES: BLAZE" tvg-logo="" group-title="Live: Spain",ES: BLAZE
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23075
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES: Boing" tvg-logo="[""]" group-title="Live: Spain",ES: Boing
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2211
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="Live: Spain",ES: Bom Cine HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23073
+#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="ES: C&I" tvg-logo="[""]" group-title="Live: Spain",ES: C&I
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8209
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Cadena Elite" tvg-logo="" group-title="Live: Spain",ES: Cadena Elite
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23072
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: Calle 13" tvg-logo="" group-title="Live: Spain",ES: Calle 13
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1096
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CALLE 13 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23056
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="Live: Spain",ES: CALLE 13 HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3368
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="Live: Spain",ES: Canal Coccina
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1103
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="ES: Canal Decasa" tvg-logo="" group-title="Live: Spain",ES: Canal Decasa
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2632
+#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="ES: Canal Sur FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Canal Sur FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23070
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: Caza y pesca" tvg-logo="[" group-title="Live: Spain",ES: Caza y pesca
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1102
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CAZA Y PESCA FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23055
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="Live: Spain",ES: CAZA Y PESCA HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8206
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="ES: Clan Tve" tvg-logo="" group-title="Live: Spain",ES: Clan Tve
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1100
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Classica" tvg-logo="[""]" group-title="Live: Spain",ES: Classica
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2637
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CMM TV" tvg-logo="" group-title="Live: Spain",ES: CMM TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23069
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="[""]" group-title="Live: Spain",ES: Comedy Central
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2633
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="[" group-title="Live: Spain",ES: COMEDY CENTRAL FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23054
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="Live: Spain",ES: COMEDY CENTRAL HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3386
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="[""]" group-title="Live: Spain",ES: COSMO FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23053
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO HD" tvg-logo="" group-title="Live: Spain",ES: COSMO HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3387
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: Cuatro hd" tvg-logo="" group-title="Live: Spain",ES: Cuatro hd
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/627
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Dcine" tvg-logo="" group-title="Live: Spain",ES: Dcine
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/634
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23052
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3376
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="[""]" group-title="Live: Spain",ES: DISNEY CHANNEL FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23051
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISNEY CHANNEL HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3382
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: Disney Channel Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Disney Channel Spain
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/633
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="ES: Disney Junior" tvg-logo="[" group-title="Live: Spain",ES: Disney Junior
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12631
+#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="ES: DISNEY+" tvg-logo="" group-title="Live: Spain",ES: DISNEY+
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12632
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="" group-title="Live: Spain",ES: DIVINITY
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2218
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES: DKiss" tvg-logo="" group-title="Live: Spain",ES: DKiss
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12633
+#EXTINF:-1 tvg-ID="discoverymax.es" tvg-name="ES: Dmax" tvg-logo="" group-title="Live: Spain",ES: Dmax
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2641
+#EXTINF:-1 tvg-ID="" tvg-name="ES: DW" tvg-logo="" group-title="Live: Spain",ES: DW
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12634
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES: Energy" tvg-logo="" group-title="Live: Spain",ES: Energy
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1099
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1FHD" tvg-logo="[""]" group-title="Live: Spain",ES: EUROSPORT 1FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23050
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1HD" tvg-logo="[""]" group-title="Live: Spain",ES: EUROSPORT 1HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8204
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="Live: Spain",ES: EUROSPORT 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8208
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2FHD" tvg-logo="[""]" group-title="Live: Spain",ES: EUROSPORT 2FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23049
+#EXTINF:-1 tvg-ID="canalextremadurasat.es" tvg-name="ES: ExtraMadura TV" tvg-logo="" group-title="Live: Spain",ES: ExtraMadura TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23067
+#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="ES: FDF" tvg-logo="" group-title="Live: Spain",ES: FDF
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1098
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: Fox" tvg-logo="[""]" group-title="Live: Spain",ES: Fox
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/631
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX FHD" tvg-logo="[""]" group-title="Live: Spain",ES: FOX FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23048
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: FOX HD" tvg-logo="" group-title="Live: Spain",ES: FOX HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3367
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="[""]" group-title="Live: Spain",ES: FOX LIFE FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23047
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Live: Spain",ES: FOX LIFE HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/6815
+#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX News" tvg-logo="" group-title="Live: Spain",ES: FOX News
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23068
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="ES: GOL T" tvg-logo="" group-title="Live: Spain",ES: GOL T
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1084
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia" tvg-logo="[""]" group-title="Live: Spain",ES: Historia
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/630
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Historia FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23023
+#EXTINF:-1 tvg-ID="" tvg-name="ES: HIT TV" tvg-logo="" group-title="Live: Spain",ES: HIT TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23066
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: Hollywood" tvg-logo="" group-title="Live: Spain",ES: Hollywood
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/629
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23046
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3369
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="ES: Iberlia TV" tvg-logo="" group-title="Live: Spain",ES: Iberlia TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2629
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1" tvg-logo="" group-title="Live: Spain",ES: LA 1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/623
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: La 2 SD" tvg-logo="[""]" group-title="Live: Spain",ES: La 2 SD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23025
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR H265" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR H265
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/49813
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23045
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR SD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34552
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/7180
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR M1" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23065
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M2" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34553
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M3" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34554
+#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M4" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M4
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/34555
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="Live: Spain",ES: INTERECONOMIA
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12637
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: La Sexta hd" tvg-logo="[" group-title="Live: Spain",ES: La Sexta hd
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/628
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Melilla TV" tvg-logo="" group-title="Live: Spain",ES: Melilla TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12636
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Levante TV" tvg-logo="" group-title="Live: Spain",ES: Levante TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2640
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion" tvg-logo="" group-title="Live: Spain",ES: M. Accion
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/638
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion FHD" tvg-logo="" group-title="Live: Spain",ES: M. Accion FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23042
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion HD" tvg-logo="[" group-title="Live: Spain",ES: M. Accion HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2402
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Cine N" tvg-logo="[" group-title="Live: Spain",ES: M. Cine N
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/17207
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia" tvg-logo="" group-title="Live: Spain",ES: M. Comedia
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/637
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia FHD" tvg-logo="" group-title="Live: Spain",ES: M. Comedia FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23043
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia HD" tvg-logo="[" group-title="Live: Spain",ES: M. Comedia HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2403
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23041
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes HD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2407
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes" tvg-logo="" group-title="Live: Spain",ES: M. Deportes
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/636
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23094
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23032
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23093
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 4
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23091
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 5
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23090
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 6
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23089
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 7" tvg-logo="" group-title="Live: Spain",ES: M. Deportes 7
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23088
+#EXTINF:-1 tvg-ID="mdisney.es" tvg-name="ES: M. DISNEY" tvg-logo="[" group-title="Live: Spain",ES: M. DISNEY
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23031
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll" tvg-logo="" group-title="Live: Spain",ES: M. Doc&Roll
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1091
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23040
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll HD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3388
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama FHD" tvg-logo="" group-title="Live: Spain",ES: M. Drama FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23039
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama HD" tvg-logo="" group-title="Live: Spain",ES: M. Drama HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2404
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1094
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Estrenos FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23038
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos HD" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2405
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: M. Formula 1" tvg-logo="[" group-title="Live: Spain",ES: M. Formula 1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1087
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: M. Formula 1 FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Formula 1 FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23037
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: M. Formula 1 HD" tvg-logo="" group-title="Live: Spain",ES: M. Formula 1 HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2570
+#EXTINF:-1 tvg-ID="movistarfutbol.es" tvg-name="ES: M. Futbol HD" tvg-logo="" group-title="Live: Spain",ES: M. Futbol HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2408
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1086
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23036
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones FHD H265" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones FHD H265
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/49812
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23035
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19206
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/6491
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1 HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 1 HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19205
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19204
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19203
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 4
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19202
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 5
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19201
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[""]" group-title="Live: Spain",ES: M. Liga De Campeones 6
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23098
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[""]" group-title="Live: Spain",ES: M. Liga De Campeones 7
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19200
+#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[""]" group-title="Live: Spain",ES: M. Liga De Campeones 8
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/19199
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series" tvg-logo="[" group-title="Live: Spain",ES: M. Series
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1093
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23034
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series HD" tvg-logo="" group-title="Live: Spain",ES: M. Series HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2406
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series Mania FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23033
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania HD" tvg-logo="" group-title="Live: Spain",ES: M. Series Mania HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3365
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. SeriesMania" tvg-logo="[" group-title="Live: Spain",ES: M. SeriesMania
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1095
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M.Golf  HD" tvg-logo="" group-title="Live: Spain",ES: M.Golf  HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3373
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="ES: Mega HD" tvg-logo="[" group-title="Live: Spain",ES: Mega HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2217
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="Live: Spain",ES: MEZZO LIVE HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8205
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES: MTV Spana" tvg-logo="[""]" group-title="Live: Spain",ES: MTV Spana
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2213
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte" tvg-logo="" group-title="Live: Spain",ES: Multideporte
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12629
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 1" tvg-logo="" group-title="Live: Spain",ES: Multideporte 1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23087
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 2" tvg-logo="" group-title="Live: Spain",ES: Multideporte 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23086
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 3" tvg-logo="" group-title="Live: Spain",ES: Multideporte 3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23085
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 4" tvg-logo="" group-title="Live: Spain",ES: Multideporte 4
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23084
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 5" tvg-logo="" group-title="Live: Spain",ES: Multideporte 5
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23083
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 6" tvg-logo="" group-title="Live: Spain",ES: Multideporte 6
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23082
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 7" tvg-logo="" group-title="Live: Spain",ES: Multideporte 7
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23081
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 8" tvg-logo="" group-title="Live: Spain",ES: Multideporte 8
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23080
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: Nat Geo" tvg-logo="[" group-title="Live: Spain",ES: Nat Geo
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1101
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: Nat Geo Wild" tvg-logo="[""]" group-title="Live: Spain",ES: Nat Geo Wild
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/626
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NAT GEO WILD FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23030
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="Live: Spain",ES: NAT GEO WILD HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3389
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23029
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3375
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="ES: NEOX HD" tvg-logo="[" group-title="Live: Spain",ES: NEOX HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2216
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="ES: Nick Jr" tvg-logo="[""]" group-title="Live: Spain",ES: Nick Jr
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12635
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="" group-title="Live: Spain",ES: NICKELODEON FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23028
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="[""]" group-title="Live: Spain",ES: NICKELODEON HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/6817
+#EXTINF:-1 tvg-ID="nonstoppeople.es" tvg-name="ES: NONSTOPEOPLE" tvg-logo="" group-title="Live: Spain",ES: NONSTOPEOPLE
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/8207
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="ES: NOVA" tvg-logo="" group-title="Live: Spain",ES: NOVA
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2214
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="ES: Odisea" tvg-logo="" group-title="Live: Spain",ES: Odisea
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2631
+#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="ES: Orbe 21" tvg-logo="" group-title="Live: Spain",ES: Orbe 21
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2215
+#EXTINF:-1 tvg-ID="panda.pt" tvg-name="ES: Panda" tvg-logo="[""]" group-title="Live: Spain",ES: Panda
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23019
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="ES: Paramount" tvg-logo="[""]" group-title="Live: Spain",ES: Paramount
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2642
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="Live: Spain",ES: RealMadrid TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/632
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: Realmadrid TV HD" tvg-logo="[" group-title="Live: Spain",ES: Realmadrid TV HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/22796
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="" group-title="Live: Spain",ES: Realmadrid TV ( English )
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/30051
+#EXTINF:-1 tvg-ID="rtespanol.es" tvg-name="ES: RTVC" tvg-logo="" group-title="Live: Spain",ES: RTVC
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/17206
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV" tvg-logo="" group-title="Live: Spain",ES: Sundance TV
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12641
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Sundance TV FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23027
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2639
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="" group-title="Live: Spain",ES: SYFY FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23026
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY HD" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/6814
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23021
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM HD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3370
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: Telecinco" tvg-logo="[" group-title="Live: Spain",ES: Telecinco
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/624
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="ES: Teledeporte" tvg-logo="" group-title="Live: Spain",ES: Teledeporte
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1089
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: RTVCE Ceuta" tvg-logo="" group-title="Live: Spain",ES: RTVCE Ceuta
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23024
+#EXTINF:-1 tvg-ID="ten.es" tvg-name="ES: Ten" tvg-logo="" group-title="Live: Spain",ES: Ten
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12639
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES: TNT" tvg-logo="[""]" group-title="Live: Spain",ES: TNT
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2634
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TOROS FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23079
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS HD" tvg-logo="" group-title="Live: Spain",ES: TOROS HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/6816
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: Torros" tvg-logo="" group-title="Live: Spain",ES: Torros
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1092
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL MALGA" tvg-logo="" group-title="Live: Spain",ES: CANAL MALGA
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23063
+#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TV Galicia" tvg-logo="" group-title="Live: Spain",ES: TV Galicia
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/1429
+#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 Cataluña FHD" tvg-logo="[" group-title="Live: Spain",ES: TV3 Cataluña FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23062
+#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 HD" tvg-logo="" group-title="Live: Spain",ES: TV3 HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/2210
+#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR FHD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/23078
+#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR HD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR HD
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/3390
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 1" tvg-logo="" group-title="Live: Spain",ES: Alquiler 1
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12642
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 2" tvg-logo="" group-title="Live: Spain",ES: Alquiler 2
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12644
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 3" tvg-logo="" group-title="Live: Spain",ES: Alquiler 3
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12645
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 4" tvg-logo="" group-title="Live: Spain",ES: Alquiler 4
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12646
+#EXTINF:-1 tvg-ID="alquiler5.es" tvg-name="ES: Alquiler 5" tvg-logo="" group-title="Live: Spain",ES: Alquiler 5
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12647
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="ES: Alquiler 6" tvg-logo="" group-title="Live: Spain",ES: Alquiler 6
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12648
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 7" tvg-logo="" group-title="Live: Spain",ES: Alquiler 7
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12649
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 8" tvg-logo="" group-title="Live: Spain",ES: Alquiler 8
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12650
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 9" tvg-logo="" group-title="Live: Spain",ES: Alquiler 9
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12651
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 10" tvg-logo="" group-title="Live: Spain",ES: Alquiler 10
+http://premium-streamplay.club:8080/Cz07YMAFcp/fZm8HS57F9/12643
